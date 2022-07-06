@@ -1,0 +1,35 @@
+nav {
+    background-color: rgb(14, 39, 180);
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    color: white;
+}
+
+.container {
+    width: 1140px;
+    max-width: 100%;
+    margin: auto;
+}
+
+ul {
+    float: left;
+    margin-right: 20px;
+}
+
+ul li {
+    list-style: none;
+    background-color: rgb(14, 39, 180);
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+footer {
+    clear: both;
+    background-color: rgb(14, 39, 180);
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    color: white;
+}
